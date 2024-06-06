@@ -1,0 +1,6 @@
+framework module Pods_modul_19_6 {
+  umbrella header "Pods-modul_19.6-umbrella.h"
+
+  export *
+  module * { export * }
+}
